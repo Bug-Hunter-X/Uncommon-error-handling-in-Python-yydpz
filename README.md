@@ -1,0 +1,2 @@
+# Uncommon Python Error Handling
+This example showcases an uncommon error-handling scenario in Python. The function `function_with_uncommon_error` demonstrates how to handle both `ZeroDivisionError` and `TypeError` exceptions, which might occur when unexpected input types are provided. It also includes additional checks for specific input types (such as strings) to provide more descriptive error messages.
